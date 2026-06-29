@@ -97,7 +97,7 @@ Antes de comenzar a desarrollar las consultas se analizó la estructura de la ba
 
 Este análisis permitió identificar correctamente las claves primarias y foráneas, facilitando el uso adecuado de los distintos tipos de `JOIN` empleados durante el proyecto.
 
-![Modelo Relacional de la Base de Datos Sakila](docs/sakila_diagram.png)
+!(docs/sakila_diagram.png)
 
 ---
 
