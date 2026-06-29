@@ -40,13 +40,13 @@ sakila-sql-analysis/
 
 # 🛠️ Tecnologías Utilizadas
 
-| Herramienta | Versión | Uso |
-|-------------|---------|-----|
-| PostgreSQL | 17 | Motor de base de datos |
-| DBeaver | Community | Desarrollo y ejecución de consultas |
-| Git | — | Control de versiones |
-| GitHub | — | Documentación del proyecto |
-| macOS | — | Entorno de desarrollo |
+| Herramienta | Uso |
+|-------------|-----|
+| PostgreSQL 17 | Motor de base de datos |
+| DBeaver | Desarrollo y ejecución de consultas |
+| Git | Control de versiones |
+| GitHub | Documentación del proyecto |
+| macOS | Entorno de desarrollo |
 
 ---
 
